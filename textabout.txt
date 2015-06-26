@@ -1,0 +1,3 @@
+textabout.txt
+
+Sup' Games is an independent, non-profit, and small gaming company, who have been working on games the last couple years, hailing games for ios and windows. In 2015, Sup' Games was bought by Kid Chronics, and has began to thrive even further, and continue to make more fun games, using application including Unity, UDK, and Gamesalad, as well as making one small demo game on Scratch. We hope you enjoy our products, and if you do, donate! Thanks.
